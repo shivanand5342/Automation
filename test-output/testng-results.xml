@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-21T15:22:31 IST" name="Default suite" finished-at="2021-06-21T15:22:34 IST" duration-ms="2661">
+    <groups>
+    </groups>
+    <test started-at="2021-06-21T15:22:31 IST" name="Default test" finished-at="2021-06-21T15:22:34 IST" duration-ms="2661">
+      <class name="MA.automation.TestClass">
+        <test-method signature="testDataProvider(java.lang.String,java.lang.String)[pri:0, instance:MA.automation.TestClass@39529185]" started-at="2021-06-21T15:22:34 IST" name="testDataProvider" data-provider="getData" finished-at="2021-06-21T15:22:34 IST" duration-ms="11" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[lmn]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDataProvider -->
+        <test-method signature="testDataProvider(java.lang.String,java.lang.String)[pri:0, instance:MA.automation.TestClass@39529185]" started-at="2021-06-21T15:22:34 IST" name="testDataProvider" data-provider="getData" finished-at="2021-06-21T15:22:34 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pqr]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[stu]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDataProvider -->
+        <test-method signature="testDataProvider(java.lang.String,java.lang.String)[pri:0, instance:MA.automation.TestClass@39529185]" started-at="2021-06-21T15:22:34 IST" name="testDataProvider" data-provider="getData" finished-at="2021-06-21T15:22:34 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ijk]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[klm]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDataProvider -->
+      </class> <!-- MA.automation.TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
